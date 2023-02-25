@@ -1,6 +1,6 @@
 Overview
 
-A fully responsive static react home page for a application like GPT3. Built using
+A fully responsive static react landing page for a application like GPT3. Built using
 
 1. HTML5
 2. CSS3 (BEM Convention , Media Queries)
